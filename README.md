@@ -1,1 +1,3 @@
 # microscope
+
+Meteor Discovery Project
