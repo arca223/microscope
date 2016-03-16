@@ -1,7 +1,1 @@
 local
-
-.idea
-*.xml
-*.iml
-.idea/*
-idea/
